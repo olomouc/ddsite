@@ -1,0 +1,15 @@
+{
+  "name": "drinkingdiary",
+  "version": "1.0.0",
+  "author": "Your Name",
+  "homepage": "http://homepage.com",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "devDependencies": {
+      "grunt-contrib-compass": "v1.1.1",
+      "grunt-contrib-sass": "v1.0.0",
+      "grunt-contrib-watch": "v1.0.0"
+  }
+
+}
