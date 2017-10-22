@@ -18,7 +18,7 @@ Login to Drinking Diary
   <li>	User password:<br>
   <input type="password" name="password"></li>
    <li> <input type="submit" class="btn btn-info" value="login">
-   <li><a href="register.php">Please register if you don't have an account</a>
+   <li><a href="user_register.php">Please register if you don't have an account</a>
 </ul>
 </form>
 </div>
