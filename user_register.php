@@ -12,7 +12,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-            include 'core/init.php';
+            
         ?>
         
         
