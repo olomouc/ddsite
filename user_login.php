@@ -39,7 +39,7 @@ function user_exists($pdo, $username) {
    return ($result == 1);
 }
 
-if(user_exists($pdo,'edadmin') == true) {
+if(user_exists($pdo,'edadm') == true) {
    echo "exists";
 } else {
   echo "doesnt exist";

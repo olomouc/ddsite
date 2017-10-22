@@ -19,5 +19,3 @@ $pdo = new PDO($dsn, $user, $pass, $opt);
   echo 'Message: ' .$e->getMessage();
   exit;
 }
-
-?>
