@@ -1,6 +1,6 @@
 <?php
 session_start();
-include 'core/init.php';
+//include 'core/init.php';
 
 $host = 'localhost';
 $db = 'drinkdiary';
