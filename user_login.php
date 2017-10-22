@@ -2,7 +2,7 @@
 session_start();
 include 'include/db_connect.php';
 
-$host = 'localhost';
+/*$host = 'localhost';
 $db = 'drinkdiary';
 $user = 'ddbadmin';
 $pass = 'ddbadmin123';
@@ -21,7 +21,7 @@ $pdo = new PDO($dsn, $user, $pass, $opt);
   echo 'Message: ' .$e->getMessage();
   exit;
 }
-
+*/
 function display_users($pdo) {
 
 foreach($pdo->query('SELECT * FROM users') as $row) {
